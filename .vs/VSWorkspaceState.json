@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Footer",
+    "\\src\\layout",
+    "\\src\\pages",
+    "\\src\\pages\\api",
+    "\\src\\styles",
+    "\\src\\styles\\GlobalComponents",
+    "\\src\\themes"
+  ],
+  "SelectedNode": "\\src\\pages\\index.js",
+  "PreviewInSolutionExplorer": false
+}
